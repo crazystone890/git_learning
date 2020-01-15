@@ -4,5 +4,6 @@ add first command with config option
 hello
 a b c def hello5
 we are going to add some description
-add clone xyz add7 
+add clone xyz add7 123 
+add test001
 add test
